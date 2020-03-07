@@ -1,7 +1,7 @@
 # world-of-birds
 Git Repo For World Of Birds
 
-This Aapp is Being Built in Spring Boot 5
+This App is Being Built in Spring Boot 5
 
 In future it will get deployed in AWS
 
